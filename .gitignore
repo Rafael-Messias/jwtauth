@@ -1,0 +1,76 @@
+## Compilados e binários
+bin/
+obj/
+out/
+
+## Diretórios de publicação
+publish/
+*.publishsettings
+
+## Arquivos do usuário do Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Arquivos de log
+*.log
+
+## Sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## IDE e builds
+*.dbmdl
+*.bak
+*.cache
+*.tmp
+*.pidb
+*.sdf
+*.sqlite
+*.pdb
+
+## Configuração local do Rider/JetBrains
+.idea/
+*.sln.iml
+
+## Arquivos de dependência
+packages/
+*.nupkg
+
+## Diretórios gerados por ferramentas
+node_modules/
+bower_components/
+
+## wwwroot gerenciado localmente
+wwwroot/uploads/
+
+## Arquivos de banco de dados local
+*.mdf
+*.ldf
+
+## Arquivos secretos
+secrets.json
+*.key
+*.pem
+*.pfx
+
+## Build do Testes
+TestResults/
+coverage/
+
+## Arquivos de build do Mac/Linux
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+## Logs do sistema
+*.log
+*.log.*
+
+## Outros
+.env
