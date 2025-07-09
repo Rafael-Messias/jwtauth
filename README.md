@@ -18,7 +18,6 @@ Aplicação .NET Core Web Api com autenticação com Json Web Token & Refresh To
 ## 🧱 Estrutura do Projeto
 ```
 /JwtAuth         → Api
-/JwtAuth.Tests   → Testes unitários com xUnit + Moq
 ```
 
 ## 📦 Instalação e Execução
@@ -47,13 +46,6 @@ dotnet run --project JwtAuth
 5. Acesse documentação/testes via browser:
 ```
 https://localhost:7296/scalar/v1
-```
-
-## ✅ Testes
-Para executar os testes:
-```bash
-dotnet test
-```
 ```
 
 ## 👨‍💻 Autor
